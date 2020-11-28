@@ -34,9 +34,9 @@ function NavBar(props) {
           >
             <MenuIcon />
           </IconButton>
-          {/* <Typography variant="h6" className={classes.title}>
-            Appointment Booking App
-          </Typography> */}
+          <Typography variant="h6" className={classes.title}>
+            Git Issues
+          </Typography>
         </Toolbar>
       </AppBar>
     </div>
