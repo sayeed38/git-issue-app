@@ -1,6 +1,6 @@
 # appointment-booking-frontend
 
-Hosted Link Here: [Git-Issue-App](https://appointment-booking-app.netlify.app/)
+Hosted Link Here: [Git-Issue-App](https://git-issues-app.netlify.app/)
 
 ## How to Run Locally
 
